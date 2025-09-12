@@ -1,0 +1,12 @@
+Redirect 301 /music https://www.iamq6.com/#music
+Redirect 301 /bio https://www.iamq6.com/#bio
+Redirect 301 /videos https://www.iamq6.com/#videos
+Redirect 301 /contact https://www.iamq6.com/#contact
+Redirect 301 /blog https://blog.iamq6.com
+
+# Ensure trailing slashes are handled
+Redirect 301 /music/ https://www.iamq6.com/#music
+Redirect 301 /bio/ https://www.iamq6.com/#bio
+Redirect 301 /videos/ https://www.iamq6.com/#videos
+Redirect 301 /contact/ https://www.iamq6.com/#contact
+Redirect 301 /blog/ https://blog.iamq6.com
