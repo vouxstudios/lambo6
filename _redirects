@@ -1,0 +1,5 @@
+/music #music 301
+/bio #bio 301
+/videos #videos 301
+/contact #contact 301
+/blog/* https://blog.iamq6.com/:splat
